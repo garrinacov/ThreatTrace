@@ -1,4 +1,6 @@
 # ThreatTrace
+![Screen Shot 2025-06-01 at 06 14 04](https://github.com/user-attachments/assets/a1f9b969-a6c1-487f-beb6-4b5fc18a6b1e)
+
 ThreatTrace is a powerful Bash-based PCAP/PCAPNG analysis toolkit for offline inspection of network captures. It extracts and analyzes critical metadata, protocols, user agents, file transfers, suspicious service:filename patterns, and generates an investigation summary — all without needing to open Wireshark.
 
   > Perfect for: CTF challenges, malware analysis, traffic auditing, and offline forensic investigations.
